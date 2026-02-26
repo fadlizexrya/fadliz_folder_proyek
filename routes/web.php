@@ -10,7 +10,7 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-
+<h1> fadli sudah berhasill</h1>
 
 require __DIR__ . '/front.php';
 require __DIR__ . '/admin.php';
